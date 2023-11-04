@@ -2,87 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				604,
-				-113
+				80,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-180
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left"
+			"name": "Left"
 		},
 		{
 			"offsets": [
-				31,
-				92
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"offsets": [
-				-55,
-				-268
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"offsets": [
-				-7,
-				-264
+				-270,
+				-270
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				11,
-				-107
+				0,
+				-220
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": false,
-			"name": "idle"
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
 		},
 		{
 			"offsets": [
-				613,
-				10
+				-194,
+				-270
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "dead",
 			"loop": false,
-			"name": "dead"
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/L_ghost",
+	"image": "characters/Alvin",
 	"position": [
-		340,
-		-20
+		0,
+		0
 	],
-	"healthicon": "ghos",
+	"healthicon": "alvinicon",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		207,
+		5,
+		10
 	],
 	"camera_position": [
-		-880,
-		20
+		60,
+		260
 	],
 	"sing_duration": 6.1,
 	"scale": 1
