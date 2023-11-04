@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="L_dead.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1523" height="509"/>
+	<SubTexture name="idle0001" x="0" y="0" width="1523" height="509"/>
+	<SubTexture name="idle0002" x="0" y="509" width="1522" height="509" frameX="0" frameY="0" frameWidth="1523" frameHeight="509"/>
+	<SubTexture name="idle0003" x="0" y="509" width="1522" height="509" frameX="0" frameY="0" frameWidth="1523" frameHeight="509"/>
+</TextureAtlas>
