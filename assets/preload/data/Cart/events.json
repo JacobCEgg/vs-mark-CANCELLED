@@ -1,0 +1,236 @@
+{
+	"song": {
+		"events": [
+			[
+				52500,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"L_ghost"
+					]
+				]
+			],
+			[
+				54642.8571428572,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"L_ghost"
+					]
+				]
+			],
+			[
+				56785.7142857143,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"L_ghost"
+					]
+				]
+			],
+			[
+				78214.2857142857,
+				[
+					[
+						"Change Character",
+						"GF",
+						"mark2"
+					]
+				]
+			],
+			[
+				86517.8571428571,
+				[
+					[
+						"Play Animation",
+						"dead",
+						"Dad"
+					]
+				]
+			],
+			[
+				86781.5290178571,
+				[
+					[
+						"Change Character",
+						"GF",
+						"gf-car"
+					]
+				]
+			],
+			[
+				86785.7142857142,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"mark2"
+					]
+				]
+			],
+			[
+				91071.4285714285,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"mark2"
+					]
+				]
+			],
+			[
+				95351.5624999999,
+				[
+					[
+						"Change Character",
+						"GF",
+						"gf-car"
+					]
+				]
+			],
+			[
+				95357.1428571427,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"cartsprites"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"the_spony_platestation_4"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180535.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214285.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214553.571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214821.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215089.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215357.142857143,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"gf-car"
+					]
+				]
+			],
+			[
+				216428.571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				217500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				218571.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219107.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219642.857142857,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"cartsprites"
+					]
+				]
+			]
+		]
+	}
+}
