@@ -1,0 +1,50 @@
+{
+	"storyName": "Marker D. Carter",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "marker",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mark",
+			"icon-mark",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Brace",
+			"markL",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Cart",
+			"freeplayCart",
+			[
+				255,
+				128,
+				64
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mark"
+}
